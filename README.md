@@ -65,8 +65,11 @@
   <img src="https://profile-counter.glitch.me/Hoanha2101/count.svg?"  />
 </div>
 
+<div align="center">
+  <img width="440px" src="https://github-readme-activity-graph.vercel.app/graph?username=Hoanha2101&theme=github">
+</div>
 ###
 
-<img alt="GitHub Snake" src="https://raw.githubusercontent.com/Hoanha2101/Hoanha2101/output/github-contribution-grid-snake.svg" />
+![Snake animation](https://raw.githubusercontent.com/Hoanha2101/Hoanha2101/output/github-contribution-grid-snake-dark.svg)
 
 ###
