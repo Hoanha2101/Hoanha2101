@@ -59,11 +59,16 @@
 
 ###
 
-<p align="center">
-  <span>Number of visits: </span>
-  <img src="https://profile-counter.glitch.me/Hoanha2101/count.svg?" />
-</p>
-
+<table align="center">
+  <tr>
+    <td align="center" valign="middle">
+      <span>Number of visits: </span>
+    </td>
+    <td align="center" valign="middle">
+      <img src="https://profile-counter.glitch.me/Hoanha2101/count.svg?" />
+    </td>
+  </tr>
+</table>
 
 ###
 
