@@ -59,8 +59,13 @@
 
 ###
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/Hoanha2101/count.svg?"  />
+<div align="center" display = "flex">
+  <div>
+    <text>Number of visits: </text>
+  </div>
+  <div>
+    <img src="https://profile-counter.glitch.me/Hoanha2101/count.svg?"  />
+  </div>
 </div>
 
 ###
