@@ -67,6 +67,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Hoanha2101/Hoanha2101/output/snake.svg" alt="Snake animation" />
+<img src=".github/workflows/workflows/snake.yml" alt="Snake animation" />
 
 ###
