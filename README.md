@@ -67,6 +67,6 @@
 
 ###
 
-<img alt="GitHub Snake" src="https://raw.githubusercontent.com/Hoanha21012/Hoanha2101/output/snake.svg" />
+<img alt="GitHub Snake" src="https://raw.githubusercontent.com/Hoanha21012/Hoanha2101/output/github-contribution-grid-snake.svg" />
 
 ###
