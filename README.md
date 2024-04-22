@@ -74,7 +74,7 @@
 
 ###
 
-<img align="left" src="https://octodex.github.com/images/welcometocat.png" width="300">
+<img align="left" src="https://octodex.github.com/images/NUX_Octodex.gif" width="300">
 
 <div>
   <img width="440px" src="https://github-readme-activity-graph.vercel.app/graph?username=Hoanha2101&theme=github">
