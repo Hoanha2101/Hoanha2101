@@ -9,10 +9,6 @@
 
 ###
 
-<img align="right" height="122" src="https://cdn.dribbble.com/users/1523313/screenshots/16134521/media/3975730626bdae63cf9b25d3b634bac3.gif"  />
-
-###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
@@ -65,7 +61,11 @@
 
 ###
 
-<br clear="both">
+<div align="center">
+  <img src="https://profile-counter.glitch.me/Hoanha2101/count.svg?"  />
+</div>
+
+###
 
 <img src="https://raw.githubusercontent.com/Hoanha2101/Hoanha2101/output/snake.svg" alt="Snake animation" />
 
