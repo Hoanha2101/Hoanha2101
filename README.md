@@ -57,7 +57,7 @@
   </a>
 </div>
 
-<img align="right" src="https://octodex.github.com/images/welcometocat.png" width="300">
+
 
 ###
 
@@ -74,9 +74,11 @@
 
 ###
 
+<img align="left" src="https://octodex.github.com/images/welcometocat.png" width="300">
+
 <div>
   <img width="440px" src="https://github-readme-activity-graph.vercel.app/graph?username=Hoanha2101&theme=github">
-  <img width="385px" src="https://github-readme-streak-stats.herokuapp.com/?user=Hoanha2101&theme=onedark" />
+  <img width="440px" src="https://github-readme-streak-stats.herokuapp.com/?user=Hoanha2101&theme=onedark" />
 </div>
 
 ![Snake animation](https://raw.githubusercontent.com/Hoanha2101/Hoanha2101/output/github-contribution-grid-snake-dark.svg)
