@@ -59,14 +59,11 @@
 
 ###
 
-<div align="center" display = "flex">
-  <div>
-    <text>Number of visits: </text>
-  </div>
-  <div>
-    <img src="https://profile-counter.glitch.me/Hoanha2101/count.svg?"  />
-  </div>
-</div>
+<p align="center">
+  <span>Number of visits: </span>
+  <img src="https://profile-counter.glitch.me/Hoanha2101/count.svg?" />
+</p>
+
 
 ###
 
@@ -75,6 +72,6 @@
   <img width="385px" src="https://github-readme-streak-stats.herokuapp.com/?user=Hoanha2101&theme=onedark" />
 </div>
 
-<!-- ![Snake animation](https://raw.githubusercontent.com/Hoanha2101/Hoanha2101/output/github-contribution-grid-snake-dark.svg) -->
+![Snake animation](https://raw.githubusercontent.com/Hoanha2101/Hoanha2101/output/github-contribution-grid-snake-dark.svg)
 
 ###
