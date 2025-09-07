@@ -57,23 +57,6 @@
   </a>
 </div>
 
-
-
-###
-
-<table align="center">
-  <tr>
-    <td align="center" valign="middle">
-      <span>Number of visits: </span>
-    </td>
-    <td align="center" valign="middle">
-      <img src="https://profile-counter.glitch.me/Hoanha2101/count.svg?" />
-    </td>
-  </tr>
-</table>
-
-###
-
 <img align="left" src="https://octodex.github.com/images/welcometocat.png" width="300">
 
 <div>
