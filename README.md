@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Ha Khai Hoan and I'm a student, from Viet Nam</h2>
+<h2 align="left">Hi 👋! My name is Ha Khai Hoan and I'm an AI Engineer, from Viet Nam</h2>
 
 ###
 
